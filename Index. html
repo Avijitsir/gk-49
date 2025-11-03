@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <h1>Static GK #49</h1>
+            <h1>Static GK #48</h1>
             <div class="info-item">Total Question: <span id="totalQuestionsInfo"></span></div>
             <div class="info-item">Full Marks: <span id="fullMarksInfo"></span></div>
             <div class="info-item">Time: <span id="timeLimitInfo"></span> মিনিট</div>
@@ -148,7 +148,7 @@
     </script>
 
     <script>
-        const QUIZ_ID = "Statick GK 49"; // এই ID টি প্রতিটি কুইজের জন্য অনন্য হবে
+        const QUIZ_ID = "Statick GK 48"; // এই ID টি প্রতিটি কুইজের জন্য অনন্য হবে
     </script>
 
     <script src="script.js"></script>
